@@ -1,4 +1,4 @@
-Hi. It's Martin. I'm Front-end Junior developer. 
+Hi. It's Martin. I'm Front-end Semi Full-stack Junior developer. 
 React Native.
 
 HTML | CSS | SASS | JavaScript | Bootstrap | Node.js | Docker | MongoDB | React | Express
