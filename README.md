@@ -28,7 +28,7 @@ With 2 years of experience, I specialize in creating modern, scalable web applic
 
 Feel free to reach out if you want to collaborate or discuss potential projects!
 
-[LinkedIn](www.linkedin.com/in/martin-daniels-a6b2b7269) | [Portfolio](https://vercel.com/martin13025s-projects/bank-application) | [Contact](danpain800@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/martin-daniels-a6b2b7269) | [Portfolio](https://vercel.com/martin13025s-projects/bank-application) | [Contact](mailto:danpain800@gmail.com)
 
 ![](https://avatars.dzeninfra.ru/get-zen_doc/9400491/pub_6450b41e6e459848bb78cfbd_6450b5a76c71441296af45dd/orig)
 
