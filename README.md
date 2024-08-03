@@ -25,5 +25,6 @@ Feel free to reach out if you want to collaborate or discuss potential projects!
 
 
 
+
 ![Описание GIF](https://itproger.com/paid_courses/img/javascript_anim.gif)
 
