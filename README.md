@@ -2,14 +2,13 @@
 
 ## Frontend React Web-Developer
 
-With 2 years of experience, I specialize in creating modern, scalable web applications. Here's a brief overview of my technology stack:
-
+With 2 years of experience, I specialize in creating modern, scalable web applications.
 ### Technology Stack:
 
 #### Top Technologies:
 
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) **React**: Building modern web applications with hooks and context API.
-- ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge) **React Native**: Developing cross-platform mobile applications.
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) : Building modern web applications with hooks and context API.
+- ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge) : Developing cross-platform mobile applications.
 
 #### Core Technologies:
 
