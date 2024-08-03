@@ -6,20 +6,23 @@ With 2 years of experience, I specialize in creating modern, scalable web applic
 
 ### Technology Stack:
 
-- **<span style="color: #61DAFB;">React</span>**: Building modern web applications with hooks and context API.
-- **<span style="color: #61DAFB;">React Native</span>**: Developing cross-platform mobile applications.
-- **<span style="color: #E44D26;">HTML</span>**: Creating semantic, accessible, and SEO-friendly structures.
-- **<span style="color: #264de4;">CSS</span>**: Crafting responsive layouts using Flexbox and Grid.
-- **<span style="color: #cc6699;">SASS</span>**: Writing modular stylesheets with variables, mixins, and nesting.
-- **<span style="color: #f0db4f;">JavaScript</span>**: Building dynamic web applications with vanilla JavaScript.
-- **<span style="color: #0073e6;">WordPress</span>**: Developing custom themes and plugins, integrating APIs.
-- **<span style="color: #8CC84B;">Node.js</span>**: Building scalable server-side applications.
-- **<span style="color: #0db7ed;">Docker</span>**: Containerizing applications for consistent deployment.
-- **<span style="color: #000000;">Express</span>**: Creating robust backend services and RESTful APIs.
-- **<span style="color: #00758F;">MySQL</span>**: Designing and managing relational databases.
-- **<span style="color: #000000;">Next.js</span>**: Using for server-side rendering and static site generation.
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) **React**: Building modern web applications with hooks and context API.
+- ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white) **React Native**: Developing cross-platform mobile applications.
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) **HTML**: Creating semantic, accessible, and SEO-friendly structures.
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) **CSS**: Crafting responsive layouts using Flexbox and Grid.
+- ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white) **SASS**: Writing modular stylesheets with variables, mixins, and nesting.
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) **JavaScript**: Building dynamic web applications with vanilla JavaScript.
+- ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white) **WordPress**: Developing custom themes and plugins, integrating APIs.
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) **Node.js**: Building scalable server-side applications.
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) **Docker**: Containerizing applications for consistent deployment.
+- ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) **Express**: Creating robust backend services and RESTful APIs.
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) **MySQL**: Designing and managing relational databases.
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) **Next.js**: Using for server-side rendering and static site generation.
 
 Feel free to reach out if you want to collaborate or discuss potential projects!
+
+[LinkedIn](#) | [Portfolio](#) | [Contact](mailto:your-email@example.com)
+
 
 
 ![Описание GIF](https://itproger.com/paid_courses/img/javascript_anim.gif)
