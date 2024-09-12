@@ -2,7 +2,7 @@
 
 ## Frontend React Web-Developer
 
-With 2 years of experience, I specialize in creating modern, scalable web applications.
+With 3 years of experience, I specialize in creating modern, scalable web applications.
 ### Technology Stack:
 
 #### Top Technologies:
