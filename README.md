@@ -21,9 +21,6 @@ With 3 years of experience, I specialize in creating modern, scalable web applic
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=plastic)
   
 </div>
-
-
-
 Feel free to reach out if you want to collaborate or discuss potential projects!
 
 [LinkedIn](https://www.linkedin.com/in/martin-daniels-a6b2b7269) | [Portfolio](https://vercel.com/martin13025s-projects/bank-application) | [Contact](mailto:danpain800@gmail.com)
