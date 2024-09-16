@@ -19,8 +19,7 @@ With 3 years of experience, I specialize in creating modern, scalable web applic
   ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=plastic)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic)
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=plastic)
-  
-</div>
+
 Feel free to reach out if you want to collaborate or discuss potential projects!
 
 [LinkedIn](https://www.linkedin.com/in/martin-daniels-a6b2b7269) | [Portfolio](https://vercel.com/martin13025s-projects/bank-application) | [Contact](mailto:danpain800@gmail.com)
