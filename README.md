@@ -19,8 +19,11 @@ With 3 years of experience, I specialize in creating modern, scalable web applic
   ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=plastic)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic)
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=plastic)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=plastic)
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)
 
 </div>
+
 
 Feel free to reach out if you want to collaborate or discuss potential projects!
 
