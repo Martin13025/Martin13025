@@ -8,7 +8,6 @@ With 3 years of experience, I specialize in creating modern, scalable web applic
 <div align="center">
 
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=plastic)
-  ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=plastic)
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=plastic)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
   ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=plastic)
@@ -23,8 +22,10 @@ With 3 years of experience, I specialize in creating modern, scalable web applic
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=plastic)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=plastic)
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)
+  ![Lighthouse](https://img.shields.io/badge/-Lighthouse-F44B21?logo=lighthouse&logoColor=white&style=plastic)
 
 </div>
+
 
 
 Feel free to reach out if you want to collaborate or discuss potential projects!
