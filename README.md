@@ -27,10 +27,11 @@ With 3 years of experience, I specialize in creating modern, scalable web applic
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
   ![Lighthouse](https://img.shields.io/badge/-Lighthouse-F44B21?logo=lighthouse&logoColor=white&style=flat)
 
+  ![Commits this year](https://github-readme-stats.vercel.app/api?username=Martin13025&show_icons=true&count_private=true&include_all_commits=true&theme=radical&bg_color=000000)
+  <br />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin13025&layout=compact&theme=radical&bg_color=000000)
 
-
-
-
+  
 </div>
 
 
