@@ -2,7 +2,7 @@
 
 ## Frontend React Web-Developer
 
-With 3 years of experience, I specialize in creating modern, scalable web applications.
+With 3 years of experience in web development, I specialize in creating modern and scalable web applications. Throughout my career, I have successfully developed complex frontend and backend solutions using technologies such as JavaScript, React, Node.js, and Express. My experience includes building applications that efficiently handle large volumes of data while ensuring high performance and user-friendliness.
 ### Technology Stack:
 
 <div align="center">
