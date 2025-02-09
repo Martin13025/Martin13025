@@ -2,7 +2,7 @@
 
 ## Frontend React Web-Developer
 
-I specialize in creating modern and scalable web applications. Throughout my career, I have successfully developed complex frontend and backend solutions using technologies such as JavaScript, React, Node.js, and Express. My experience includes building applications that efficiently handle large volumes of data while ensuring high performance and user-friendliness. Feel free to reach out if you want to collaborate or discuss potential projects.
+I engineer scalable web applications with a focus on high-performance frontend and backend architectures. Leveraging JavaScript, React, Node.js, and Express, I design and optimize data-intensive systems for efficiency, low latency, and maintainability.
 ### Technology Stack:
 
 <div align="center">
