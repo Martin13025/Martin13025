@@ -27,7 +27,7 @@ I engineer scalable web applications with a focus on high-performance frontend a
   <br />
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin13025&layout=compact&theme=radical&bg_color=000000)
   <br />
-  If you want support me: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C01B1WPT)
+  If you want support me: <br /> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C01B1WPT)
 </div>
 
 
