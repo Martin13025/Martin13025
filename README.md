@@ -22,12 +22,19 @@ I engineer scalable web applications with a focus on high-performance frontend a
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
   ![Lighthouse](https://img.shields.io/badge/-Lighthouse-F44B21?logo=lighthouse&logoColor=white&style=flat)
+  <br />
+  ![WordKeeper](https://img.shields.io/badge/-WordKeeper-009688?logo=readme&logoColor=white&style=flat)
+  ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-FF6F00?logo=google-analytics&logoColor=white&style=flat)
+  ![SEOmoz](https://img.shields.io/badge/-SEOmoz-2B83F6?logo=moz&logoColor=white&style=flat)
+  ![Ahrefs](https://img.shields.io/badge/-Ahrefs-0073E6?logo=ahrefs&logoColor=white&style=flat)
+  ![Semrush](https://img.shields.io/badge/-Semrush-FF5722?logo=semrush&logoColor=white&style=flat)
 
   ![Commits this year](https://github-readme-stats.vercel.app/api?username=Martin13025&show_icons=true&count_private=true&include_all_commits=true&theme=radical&bg_color=000000)
   <br />
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin13025&layout=compact&theme=radical&bg_color=000000)
   <br />
 </div>
+
 
 
 
