@@ -1,6 +1,6 @@
 # Hi, I'm Martin
 
-## Frontend React Web-Developer
+## React - developer / SEO Specialist / Systems Analyst
 
 I engineer scalable web applications with a focus on high-performance frontend and backend architectures. Leveraging JavaScript, React, Node.js, and Express, I design and optimize data-intensive systems for efficiency, low latency, and maintainability.
 ### Technology Stack:
