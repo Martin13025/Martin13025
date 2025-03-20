@@ -31,7 +31,7 @@ I engineer scalable web applications with a focus on high-performance frontend a
 
   ![Commits this year](https://github-readme-stats.vercel.app/api?username=Martin13025&show_icons=true&count_private=true&include_all_commits=true&theme=radical&bg_color=000000)
   <br />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin13025&layout=compact&theme=radical&bg_color=000000)
+  
   <br />
 </div>
 
