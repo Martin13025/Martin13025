@@ -28,7 +28,6 @@ I engineer scalable web applications with a focus on high-performance frontend a
   ![SEOmoz](https://img.shields.io/badge/-SEOmoz-2B83F6?logo=moz&logoColor=white&style=flat)
   ![Ahrefs](https://img.shields.io/badge/-Ahrefs-0073E6?logo=ahrefs&logoColor=white&style=flat)
   ![Semrush](https://img.shields.io/badge/-Semrush-FF5722?logo=semrush&logoColor=white&style=flat)
-  <br />
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 </div>
 
