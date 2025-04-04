@@ -34,17 +34,10 @@ I engineer scalable web applications with a focus on high-performance frontend a
   <br />
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin13025&layout=compact&theme=radical&bg_color=000000)
   <br />
-  
 </div>
-
-
-  
-</div>
-
-
-
 
 [LinkedIn](https://www.linkedin.com/in/martin-daniels-a6b2b7269) | [Portfolio](https://vercel.com/martin13025s-projects/bank-application) | [Contact](mailto:danpain800@gmail.com)
 
-![](https://i.pinimg.com/originals/3b/14/fb/3b14fb52323086494a13c77c485ca8ee.gif)
-
+<p align="center">
+  <img src="https://cdn.dribbble.com/userupload/20998293/file/original-c7e2298ee2ad09b20fbd36f343311ce6.gif" alt="Git Scared" width="300">
+</p>
