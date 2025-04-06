@@ -18,7 +18,7 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
 
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-  ![TSX](https://img.shields.io/badge/-TSX-3178C6?logo=typescript&logoColor=white&style=flat)
+  ![TSX](https://img.shields.io/badge/-TSX-007ACC?logo=react&logoColor=white&style=flat)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
   ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
   <br />
@@ -31,7 +31,7 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-  ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-181717?logo=github&logoColor=white&style=flat)
+  ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-24292F?logo=github&logoColor=white&style=flat)
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
   <br />
   ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
@@ -41,12 +41,11 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
   ![Ahrefs](https://img.shields.io/badge/-Ahrefs-0073E6?logo=ahrefs&logoColor=white&style=flat)
   ![Semrush](https://img.shields.io/badge/-Semrush-FF5722?logo=semrush&logoColor=white&style=flat)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+  <br />
+  ![WordKeeper](https://img.shields.io/badge/-WordKeeper-009688?logo=readme&logoColor=white&style=flat)
 
-  ![Commits this year](https://github-readme-stats.vercel.app/api?username=Martin13025&show_icons=true&count_private=true&include_all_commits=true&theme=radical&bg_color=000000)
-  <br />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin13025&layout=compact&theme=radical&bg_color=000000)
-  <br />
 </div>
+
 
 
 ---
