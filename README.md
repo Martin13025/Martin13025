@@ -45,7 +45,7 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
 
 ---
 
-## 🌟 **What I Do:**
+## 🌟 **What I Can Do:**
 ✅ **Frontend Development:** Creating highly interactive and optimized UIs with **React, Next.js, TypeScript, and SASS**.  
 ✅ **SEO Optimization:** Enhancing site visibility and search rankings through expert **SEO strategies and analytics**.  
 ✅ **Performance Tuning:** Optimizing databases, caching, and application logic for **maximum speed and efficiency**.  
@@ -66,7 +66,6 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin13025&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
----
 
 ## 🔗 **Let's Connect!**
 📌 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/martin-daniels-a6b2b7269)  
