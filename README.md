@@ -73,6 +73,6 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
 📩 **Email:** [Contact Me](mailto:danpain800@gmail.com)  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Development in Action" width="400">
+  <img src="https://media1.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952tbdf6t0wp4omle3fs2dpcjy4bp7edpvoog5ep4z6&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Web Development in Action">  
 </p>
 
