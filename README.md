@@ -53,6 +53,20 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
 ✅ **Technical SEO Audits:** Improving website performance using tools like **Google Analytics, Ahrefs, and Lighthouse**.  
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Martin13025&show_icons=true&theme=github_dark&locale=en" alt="статистика GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Martin13025&theme=github-dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin13025&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+---
 
 ## 🔗 **Let's Connect!**
 📌 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/martin-daniels-a6b2b7269)  
