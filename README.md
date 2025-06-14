@@ -25,7 +25,7 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
   ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
   ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
   <br />
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+  ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
   ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-24292F?logo=github&logoColor=white&style=for-the-badge)
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
@@ -33,9 +33,10 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
   ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
   ![Lighthouse](https://img.shields.io/badge/-Lighthouse-F44B21?logo=lighthouse&logoColor=white&style=for-the-badge)
   ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-FF6F00?logo=google-analytics&logoColor=white&style=for-the-badge)
+  ![Prompt Engineering](https://img.shields.io/badge/-AI%20Prompt%20Engineering-6A5ACD?logo=openai&logoColor=white&style=for-the-badge)
   ![SEOmoz](https://img.shields.io/badge/-SEOmoz-2B83F6?logo=moz&logoColor=white&style=for-the-badge)
-  ![Ahrefs](https://img.shields.io/badge/-Ahrefs-0073E6?logo=ahrefs&logoColor=white&style=for-the-badge)
-  ![Semrush](https://img.shields.io/badge/-Semrush-FF5722?logo=semrush&logoColor=white&style=for-the-badge)
+  ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white&style=for-the-badge)
+  ![Git Bash](https://img.shields.io/badge/-Git%20Bash-000000?logo=git&logoColor=white&style=for-the-badge)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
   <br />
   ![WordKeeper](https://img.shields.io/badge/-WordKeeper-009688?logo=readme&logoColor=white&style=for-the-badge)
