@@ -48,8 +48,8 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
 ✅ **Frontend Development:** Creating highly interactive and optimized UIs with **React, Next.js, TypeScript, and SASS**.  
 ✅ **SEO Optimization:** Enhancing site visibility and search rankings through expert **SEO strategies and analytics**.  
 ✅ **Performance Tuning:** Optimizing databases, caching, and application logic for **maximum speed and efficiency**.  
-✅ **DevOps & Deployment:** Managing cloud infrastructure, CI/CD pipelines, and **Docker-based deployments**.  
-✅ **Technical SEO Audits:** Improving website performance using tools like **Google Analytics, Ahrefs, and Lighthouse**.  
+✅ **Deployment:** Managing cloud infrastructure, CI/CD pipelines.  
+✅ **Technical SEO Audits:** Improving website performance using tools like **Google Analytics and Lighthouse**.  
 
 ---
 ## 📊 GitHub Stats
