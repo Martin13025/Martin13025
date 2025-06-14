@@ -32,10 +32,10 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
   ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
   ![Lighthouse](https://img.shields.io/badge/-Lighthouse-F44B21?logo=lighthouse&logoColor=white&style=for-the-badge)
   ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-FF6F00?logo=google-analytics&logoColor=white&style=for-the-badge)
-  ![Prompt Engineering](https://img.shields.io/badge/-AI%20Prompt%20Engineering-6A5ACD?logo=openai&logoColor=white&style=for-the-badge)
+  ![Prompt Engineering](https://img.shields.io/badge/-AI%20Prompt%20Engineering-2C9C5E?logo=openai&logoColor=white&style=for-the-badge)
   ![SEOmoz](https://img.shields.io/badge/-SEOmoz-2B83F6?logo=moz&logoColor=white&style=for-the-badge)
   ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white&style=for-the-badge)
-  ![Git Bash](https://img.shields.io/badge/-Git%20Bash-000000?logo=git&logoColor=white&style=for-the-badge)
+  ![Git Bash](https://img.shields.io/badge/-Git%20Bash-F05032?logo=git&logoColor=white&style=for-the-badge)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
   <br />
   ![WordKeeper](https://img.shields.io/badge/-WordKeeper-009688?logo=readme&logoColor=white&style=for-the-badge)
