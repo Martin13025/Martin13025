@@ -26,7 +26,6 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
   ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
   <br />
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
   ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-24292F?logo=github&logoColor=white&style=for-the-badge)
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
