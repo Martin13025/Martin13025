@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm Martin 🌟
+# Hi, I'm Martin
 
 ## 🚀 React Developer | SEO Specialist | Systems Analyst
 
@@ -44,7 +44,7 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
 
 ---
 
-## 🌟 **What I Can Do:**
+## **What I Can Do:**
 ✅ **Frontend Development:** Creating highly interactive and optimized UIs with **React, Next.js, TypeScript, and SASS**.  
 ✅ **SEO Optimization:** Enhancing site visibility and search rankings through expert **SEO strategies and analytics**.  
 ✅ **Performance Tuning:** Optimizing databases, caching, and application logic for **maximum speed and efficiency**.  
