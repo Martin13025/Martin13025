@@ -8,6 +8,8 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
 
 🔹 **SEO & Performance Optimization:** My deep knowledge of **SEO strategies, analytics, and web performance optimization** ensures that applications not only work flawlessly but also rank at the top.
 
+**React - developer / SEO Specialist / Systems Analyst [JavaScript | React | Next.js | TypeScript | GitHub | Git | Wordpress | AI Prompt Engineering | Figma]**
+
 ---
 
 ## 💻 **Technology Stack**
