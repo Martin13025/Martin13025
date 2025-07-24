@@ -20,17 +20,14 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
   ![TSX](https://img.shields.io/badge/-TSX-007ACC?logo=react&logoColor=white&style=for-the-badge)
-  <br />
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
   ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
   ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
   ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
-  <br />
   ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-  <br />
   ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
   ![Lighthouse](https://img.shields.io/badge/-Lighthouse-F44B21?logo=lighthouse&logoColor=white&style=for-the-badge)
   ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-FF6F00?logo=google-analytics&logoColor=white&style=for-the-badge)
@@ -39,7 +36,6 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
   ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white&style=for-the-badge)
   ![Git Bash](https://img.shields.io/badge/-Git%20Bash-F05032?logo=git&logoColor=white&style=for-the-badge)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-  <br />
   ![WordKeeper](https://img.shields.io/badge/-WordKeeper-009688?logo=readme&logoColor=white&style=for-the-badge)
 
 </div>
@@ -56,12 +52,9 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Martin13025&show_icons=true&theme=github_dark&locale=en" alt="статистика GitHub" />
-</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Martin13025&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Martin13025&show_icons=true&theme=github_dark&locale=en" alt="статистика GitHub" />
 </p>
 
 <p align="center">
@@ -69,7 +62,6 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
 </p>
 
 ## 🔗 **Let's Connect!**
-📌 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/martin-daniels-a6b2b7269)  
 🌐 **Portfolio:** [My Work](https://vercel.com/martin13025s-projects/bank-application)  
 📩 **Email:** [Contact Me](mailto:danpain800@gmail.com)  
 
