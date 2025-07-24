@@ -63,7 +63,7 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
 
 ## 🔗 **Let's Connect!**
 🌐 **Portfolio:** [My Work](https://martin-page.vercel.app/)  
-📩 **Email:** [Contact Me](mailto:danpain800@gmail.com)  
+📩 **Email:** danpain800@gmail.com
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlpaTlqYjF6eXBnZTd4Z2ZmdGpwaWVhMnJyMGUwdnM2YWl1emlwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" alt="Web Development in Action">  
