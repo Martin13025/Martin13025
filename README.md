@@ -66,5 +66,5 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
 📩 **Email:** danpain800@gmail.com
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlpaTlqYjF6eXBnZTd4Z2ZmdGpwaWVhMnJyMGUwdnM2YWl1emlwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" alt="Web Development in Action">  
+  <img src="https://static.wikia.nocookie.net/27c89ba4-25ad-4f22-ba37-fd6925f57edc" alt="Web Development in Action">  
 </p>
