@@ -1,18 +1,18 @@
 # Hi, I'm Martin
 
-## 🚀 React Developer | SEO Specialist | Systems Analyst
+## React Developer | SEO Specialist | Systems Analyst
 
-I am a **passionate web developer** with a strong focus on **building scalable, high-performance applications** that deliver seamless user experiences. With expertise in both **frontend and backend architectures**, I craft data-driven solutions that prioritize efficiency, low latency, and maintainability.
+I am a **web developer** with a strong focus on **building scalable, high-performance applications** that deliver seamless user experiences. With expertise in both **frontend and backend architectures**, I craft data-driven solutions that prioritize efficiency, low latency, and maintainability.
 
-🔹 **Frontend Mastery:** Proficient in **React, Next.js, JavaScript, and TypeScript**, I create interactive, high-performance UIs that are both responsive and scalable.
+**Frontend Mastery:** Proficient in **React, Next.js, JavaScript, and TypeScript**, I create interactive, high-performance UIs that are both responsive and scalable.
 
-🔹 **SEO & Performance Optimization:** My deep knowledge of **SEO strategies, analytics, and web performance optimization** ensures that applications not only work flawlessly but also rank at the top.
+**SEO & Performance Optimization:** My deep knowledge of **SEO strategies, analytics, and web performance optimization** ensures that applications not only work flawlessly but also rank at the top.
 
-**React - developer / SEO Specialist / Systems Analyst [JavaScript | React | Next.js | TypeScript | GitHub | Git | Wordpress | AI Prompt Engineering | Figma]**
+**[JavaScript | React | Next.js | TypeScript | GitHub | Git | Wordpress | AI Prompt Engineering | Figma]**
 
 ---
 
-## 💻 **Technology Stack**
+## **Stack**
 
 <div align="center">
 
@@ -42,15 +42,15 @@ I am a **passionate web developer** with a strong focus on **building scalable, 
 
 ---
 
-## **What I Can Do:**
-✅ **Frontend Development:** Creating highly interactive and optimized UIs with **React, Next.js, TypeScript, and SASS**.  
-✅ **SEO Optimization:** Enhancing site visibility and search rankings through expert **SEO strategies and analytics**.  
-✅ **Performance Tuning:** Optimizing databases, caching, and application logic for **maximum speed and efficiency**.  
-✅ **Deployment:** Managing cloud infrastructure, CI/CD pipelines.  
-✅ **Technical SEO Audits:** Improving website performance using tools like **Google Analytics and Lighthouse**.  
+## **What I Do:**
+**Frontend Development:** Creating highly interactive and optimized UIs with **React, Next.js, TypeScript, and SASS**.  
+**SEO Optimization:** Enhancing site visibility and search rankings through expert **SEO strategies and analytics**.  
+**Performance Tuning:** Optimizing databases, caching, and application logic for **maximum speed and efficiency**.  
+**Deployment:** Managing cloud infrastructure, CI/CD pipelines.  
+**Technical SEO Audits:** Improving website performance using tools like **Google Analytics and Lighthouse**.  
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 
 <p align="center">
