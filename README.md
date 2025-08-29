@@ -65,6 +65,8 @@ I am a **web developer** with a strong focus on **building scalable, high-perfor
 🌐 **Portfolio:** [My Work](https://martin-page.vercel.app/)  
 📩 **Email:** danpain800@gmail.com
 
+
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQE8fl5SckgETg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1709060277226?e=2147483647&v=beta&t=Y4bIeeUS_3N7w98HsHfdwkp14WNZ0cQ9GAvgj-zbSU0" alt="JavaScript logo">  
+  <img src="https://getlatka.com/blog/wp-content/uploads/2024/12/GitHub-1140x660.jpg" alt="GitHub logo" width="600">
 </p>
+
