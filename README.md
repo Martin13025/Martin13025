@@ -1,5 +1,3 @@
-# Hi, I'm Martin
-
 ## React Developer | SEO Specialist | Systems Analyst
 
 I am a **web developer** with a strong focus on **building scalable, high-performance applications** that deliver seamless user experiences. With expertise in both **frontend and backend architectures**, I craft data-driven solutions that prioritize efficiency, low latency, and maintainability.
