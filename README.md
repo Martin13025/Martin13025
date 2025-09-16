@@ -6,8 +6,6 @@ I am a **web developer** with a strong focus on **building scalable, high-perfor
 
 **SEO & Performance Optimization:** My deep knowledge of **SEO strategies, analytics, and web performance optimization** ensures that applications not only work flawlessly but also rank at the top.
 
-**[JavaScript | React | Next.js | TypeScript | GitHub | Git | Wordpress | AI Prompt Engineering | Figma]**
-
 ---
 
 ## **Stack**
@@ -32,9 +30,10 @@ I am a **web developer** with a strong focus on **building scalable, high-perfor
   ![Prompt Engineering](https://img.shields.io/badge/-AI%20Prompt%20Engineering-2C9C5E?logo=openai&logoColor=white&style=for-the-badge)
   ![SEOmoz](https://img.shields.io/badge/-SEOmoz-2B83F6?logo=moz&logoColor=white&style=for-the-badge)
   ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white&style=for-the-badge)
-  ![Git Bash](https://img.shields.io/badge/-Git%20Bash-F05032?logo=git&logoColor=white&style=for-the-badge)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
   ![WordKeeper](https://img.shields.io/badge/-WordKeeper-009688?logo=readme&logoColor=white&style=for-the-badge)
+  ![Figma](https://img.shields.io/badge/-Figma-000000?logo=figma&logoColor=1DA1F2&style=for-the-badge)
+  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe&logoColor=white&style=for-the-badge)
 
 </div>
 
