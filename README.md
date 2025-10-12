@@ -1,4 +1,4 @@
-## React & Full Stack Developer | SEO Specialist | Systems Analyst
+## React developer | Systems Analyst
 
 I am a **full stack web developer** passionate about **building scalable, high-performance applications** that deliver seamless user experiences. With expertise across **frontend and backend technologies**, I design data-driven solutions that are efficient, maintainable, and optimized for both performance and search visibility.
 
