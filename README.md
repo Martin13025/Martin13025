@@ -27,7 +27,6 @@ I am a **React developer** passionate about **building scalable, high-performanc
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress\&logoColor=white\&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql\&logoColor=white\&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js\&logoColor=white\&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github\&logoColor=white\&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white\&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel\&logoColor=white\&style=for-the-badge)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-FF6F00?logo=google-analytics\&logoColor=white\&style=for-the-badge)
