@@ -1,4 +1,4 @@
-## React developer | Software Engineer | System Analyst
+## React developer | System Analyst
 
 I am a **React developer** passionate about **building scalable, high-performance applications** that deliver seamless user experiences. With expertise across **frontend and backend technologies**, I design data-driven solutions that are efficient, maintainable, and optimized for both performance and search visibility.
 
