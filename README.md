@@ -50,10 +50,17 @@ I am a **React developer** passionate about **building scalable, high-performanc
 
 ## GitHub Stats
 
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Martin13025&show_icons=true&theme=github_dark&locale=en" alt="GitHub Stats" />
+
+</p>
 
 
 <p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin13025&layout=compact&theme=github_dark" alt="Top Languages" />
+
 </p>
 
 ## 🔗 **Let's Connect!**
