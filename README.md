@@ -33,6 +33,7 @@ I am a **React developer** passionate about **building scalable, high-performanc
 ![Lighthouse](https://img.shields.io/badge/-Lighthouse-F44B21?logo=lighthouse\&logoColor=white\&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-000000?logo=figma\&logoColor=1DA1F2\&style=for-the-badge)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe\&logoColor=white\&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
 </div>
 
